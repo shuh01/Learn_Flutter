@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a9f4a8d945ce45a59c198e4863db8b82caf28fb8a7b077f92112d13b72db5571"
+build_start_time: [1675752291, 754198074]
+build_end_time: [1675752291, 770234107]
+inputs:
+  "/Users/sung/Side-projects/Learn_Flutter/flutter_practice/mock_airbnb/mock_airbnb/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1675752282, 770488739]
+  "/Users/sung/Side-projects/Learn_Flutter/flutter_practice/mock_airbnb/mock_airbnb/macos/Runner/AppDelegate.swift": !private [1674527818, 0]
+  "/Users/sung/Side-projects/Learn_Flutter/flutter_practice/mock_airbnb/mock_airbnb/macos/Runner/MainFlutterWindow.swift": !private [1674527818, 0]
