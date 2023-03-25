@@ -38,6 +38,7 @@ dependencies:
   google_sign_in: ^6.0.2
   riverpod: ^2.3.2
   flutter_riverpod: ^2.3.2
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
