@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json());
 app.use(authRouter);
 
-const DB = "mongodb+srv://shuh012981:dhuh34@cluster0.i1vgirb.mongodb.net/?retryWrites=true&w=majority";
+// const DB = "mongodb+srv://shuh012981:dhuh34@cluster0.i1vgirb.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose.connect(DB).then(() => {
     console.log('Connection successful');
